@@ -4,7 +4,7 @@ class Keypad extends Component {
     render(){
         return(
             <div className="Keypad">
-                {this.props.children} //* affiche moi les parametres des enfants de Keypad // 
+                {this.props.children} //* affiche moi les parametres des enfants de Keypad 
             </div>
         );
     }
